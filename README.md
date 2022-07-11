@@ -3,6 +3,7 @@ A light weight Kodi v19 backup, configured to exclusively run botallen JioTV add
 Using my backup, you can skip all your effort needed to configure KODI along with JioTV & Hotstar addons.
 
 Download the zip file from the Release section of the github.
+https://github.com/vivin-neelankavil/Kodi-JioTv/releases/
 
 Prerequisite
   Installing a official KODI Add-on:Backup
@@ -12,8 +13,7 @@ Prerequisite
 Note : By restoring a backup using my zip files, all your configuration saved in your KODI will be erased, do at your own risk, don't blame me.
 
   Restoration process to use this lightweight configuration
-	1. Place the below zip file in your preferred location on the system where the Kodi is installed.
-		https://github.com/vivin-neelankavil/Kodi-JioTv/releases/download/v1.0/202202202144.zip
+	1. Place the below downloaded zip file in your preferred location on the system where the Kodi is installed.
 	2. Set the backup & restoration location in the backup addon
 		Settings -> Add-ons -> My addons -> Program Add-ons -> Backup -> Settings -> Remote Dir -> Browse remote Path -> (type/choose the location zip file is placed)
 	3. Restore the backup
